@@ -1,5 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#Hola soy Olga y estoy probando la edición de ficheros en GitHub!!
+
+
 
 # Custom for Visual Studio
 *.cs     diff=csharp
